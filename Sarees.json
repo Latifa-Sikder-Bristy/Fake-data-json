@@ -1,0 +1,39 @@
+{
+  "sarees": [
+    {
+      "id": 1,
+      "brand": "Kanjivaram Silk",
+      "color": "Red",
+      "material": "Pure Silk",
+      "price": "$250"
+    },
+    {
+      "id": 2,
+      "brand": "Banarasi",
+      "color": "Gold",
+      "material": "Silk",
+      "price": "$180"
+    },
+    {
+      "id": 3,
+      "brand": "Chiffon",
+      "color": "Blue",
+      "material": "Chiffon",
+      "price": "$100"
+    },
+    {
+      "id": 4,
+      "brand": "Art Silk",
+      "color": "Green",
+      "material": "Artificial Silk",
+      "price": "$60"
+    },
+    {
+      "id": 5,
+      "brand": "Georgette",
+      "color": "Pink",
+      "material": "Georgette",
+      "price": "$75"
+    }
+  ]
+}
